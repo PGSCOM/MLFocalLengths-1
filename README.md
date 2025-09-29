@@ -16,7 +16,7 @@ I preprocessed the focal lengths of ~15k of my personal image database to conver
 Set up a python environment using ``requirements.txt``. Commands for the creation of the dataset, training, and prediction are provided in the [lauch.json file](https://github.com/nandometzger/MLFocalLengths/blob/main/.vscode/launch.json).
 Training data is available upon request.
 
-The pretrained model can be accessed [here](https://drive.google.com/file/d/16Yf8dQrIAg-k8RKcy_chRsctrhQ4yzse/view?usp=share_link).
+The pretrained model can be accessed [here](https://drive.google.com/file/d/16Yf8dQrIAg-k8RKcy_chRsctrhQ4yzse/view?usp=share_link) or [here (Internet Archive)](https://archive.org/download/nandometzger-MLFocalLengths/best_model.pth).
 
 
 # Citation
